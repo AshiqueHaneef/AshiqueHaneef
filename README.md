@@ -1,16 +1,49 @@
-### Hi there 👋
+# MUHAMMED ASHIQUE K - Software Developer
 
-<!--
-**AshiqueHaneef/AshiqueHaneef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a results-driven software developer with a passion for creating exceptional mobile and web applications. With a strong command of diverse programming languages and frameworks, I'm dedicated to delivering innovative solutions. Let's explore what I bring to the table:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+- Programming Languages: JavaScript, C++, C, Dart, Python,HTML, CSS
+- Frameworks: Flutter, React, Next.js
+- Backend: Node.jS
+
+## 💼 Professional Experience
+
+- **PROCUBE**: Full Stack Software Developer
+  - *Developed and maintained web applications for clients using a wide range of technologies.
+    Collaborated with cross-functional teams to design and implement software solutions.
+    Implemented front-end features using HTML, CSS, JavaScript, and React.
+    Built server-side logic and RESTful APIs using Node.js and Next.js.
+    Conducted code reviews and participated in Agile development processes.*
+
+- **Lithos Technosoft pvt ltd.**: Software Engineer
+  - *Worked as a Software Engineer in a team, developing mobile applications using Flutter and Dart.
+     Successfully handled major projects in Flutter, ensuring high-quality code and timely delivery.
+     Collaborated with designers and back-end developers to implement user-friendly interfaces and integrate APIs.
+     Conducted thorough testing and debugging to ensure smooth performance across different devices and platforms*
+
+
+## ⚡️ Major Projects
+
+Here are some notable projects I've contributed to:
+
+- **Beacon**
+  - Description: A portfolio website for an accounting and auditing firm in soudi arabia.
+  - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
+
+- **Lithos Field Sale Application**
+  - Description: Field sale application for Lithos POS. Build available for both Ios and Android.
+  - Technologies used: Flutter and Node.Js
+
+## 📫 Let's Connect!
+
+I'm always open to exciting collaborations and opportunities. Connect with me through the following channels:
+
+- Email: hashofficial98@gmail.com
+- LinkedIn: [[Your LinkedIn Profile URL]]
+- Website/Portfolio: [[Your Website or Portfolio URL]]
+
+Feel free to reach out, and let's turn ideas into reality!
