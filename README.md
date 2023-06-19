@@ -43,7 +43,7 @@ Here are some notable projects I've contributed to:
 I'm always open to exciting collaborations and opportunities. Connect with me through the following channels:
 
 - Email: hashofficial98@gmail.com
-- LinkedIn: [[Your LinkedIn Profile URL]]
-- Website/Portfolio: [[Your Website or Portfolio URL]]
+- LinkedIn: https://www.linkedin.com/in/muhammed-ashique-k-7996b016b
+- Website/Portfolio: [[[Your Website or Portfolio URL]]](https://ashique-haneef.netlify.app/)
 
 Feel free to reach out, and let's turn ideas into reality!
