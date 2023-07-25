@@ -33,10 +33,27 @@ Here are some notable projects I've contributed to:
 - **Beacon**
   - Description: A portfolio website for an accounting and auditing firm in soudi arabia.
   - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
+ 
+- **Procube**
+  - Description: A portfolio website for Procube.
+  - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
 
 - **Lithos Field Sale Application**
   - Description: Field sale application for Lithos POS. Build available for both Ios and Android.
   - Technologies used: Flutter and Node.Js
+  
+- **Kiwi Kisan**
+  - Description: A grocery e-commerce application for KIWI KISAN Store.
+  - Technologies used: Flutter and Node.Js
+    
+- **Lithos Pos**
+  - Description: A POS crossplatform application.
+  - Technologies used: Flutter and Node.Js
+
+- **Lithos Pos- Delivery App**
+  - Description: A Delivery crossplatform application.
+  - Technologies used: Flutter and Node.Js
+
 
 ## 📫 Let's Connect!
 
