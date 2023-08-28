@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a results-driven software developer with a pas
 - **PROCUBE**: Full Stack Software Developer
   - *Developed and maintained web applications for clients using a wide range of technologies.
     Collaborated with cross-functional teams to design and implement software solutions.
-    Implemented front-end features using HTML, CSS, JavaScript, and React.
+    Implemented front-end features using HTML, CSS,Tailwind CSS, JavaScript, ReactJS,and NextJs.
     Built server-side logic and RESTful APIs using Node.js and Next.js.
     Conducted code reviews and participated in Agile development processes.*
 
@@ -30,13 +30,25 @@ Welcome to my GitHub profile! I'm a results-driven software developer with a pas
 
 Here are some notable projects I've contributed to:
 
+- **Gisco**
+  - Description: A portfolio website for General contracting firm in soudi arabia.
+  - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
+     [giscogcc](https://giscogcc.com/)
+
+- **Procube**
+  - Description: A portfolio website for Procube.
+  - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
+     [procube.cx](https://procube.cx/)
+
+- **Nexwave**
+  - Description: A portfolio website for a profesional business firm in Canada.
+  - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
+    [nexwave.cx](https://nexwave.cx/)
+
 - **Beacon**
   - Description: A portfolio website for an accounting and auditing firm in soudi arabia.
   - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
  
-- **Procube**
-  - Description: A portfolio website for Procube.
-  - Technologies used: Nextt.Js, JavaScript, CSS, Tailwind CSS
 
 - **Lithos Field Sale Application**
   - Description: Field sale application for Lithos POS. Build available for both Ios and Android.
