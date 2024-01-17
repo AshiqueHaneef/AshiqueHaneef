@@ -33,7 +33,7 @@ Here are some notable projects I've contributed to:
 - **Petbey: Where Pets Find Homes!**
   - Description: A marketplace and social media application for pet users.
   - Technologies used: nest.js and flutter dart.
-     [Petbey](https://giscogcc.com](https://play.google.com/store/apps/details?id=com.petbey.petbey_flutter&pcampaignid=web_share)/)
+     [Petbey](https://play.google.com/store/apps/details?id=com.petbey.petbey_flutter&pcampaignid=web__share)
 
 - **Gisco**
   - Description: A portfolio website for General contracting firm in soudi arabia.
