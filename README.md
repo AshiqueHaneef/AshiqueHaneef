@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a results-driven software developer with a pas
 
 - Programming Languages: JavaScript, C++, C, Dart, Python,HTML, CSS
 - Frameworks: Flutter, React, Next.js
-- Backend: Node.jS
+- Backend: Node.Js, NestJs
 
 ## 💼 Professional Experience
 
